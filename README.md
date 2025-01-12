@@ -1,0 +1,2 @@
+This repository contains a simple TypeScript program that demonstrates a type mismatch error. The function greeter expects a string argument, but it is called with an array of strings. This causes a compilation error.
+The solution involves modifying the function signature to accept an array of strings or modifying the function call to pass a single string argument.
